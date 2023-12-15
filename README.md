@@ -1,4 +1,4 @@
-# SWE 642: Assignment 2 - JavaScript, Cookie, Ajax, & jQuery/jQuery UI
+# Survey_Form_Javascript_Ajax_jQuery_jQueryUI
 
 This is an project i did for my university.
 
